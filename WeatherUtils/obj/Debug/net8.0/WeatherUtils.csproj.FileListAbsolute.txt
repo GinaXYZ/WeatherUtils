@@ -9,3 +9,4 @@ C:\Users\FIA\source\repos\WeatherUtils\WeatherUtils\obj\Debug\net8.0\WeatherUtil
 C:\Users\FIA\source\repos\WeatherUtils\WeatherUtils\obj\Debug\net8.0\refint\WeatherUtils.dll
 C:\Users\FIA\source\repos\WeatherUtils\WeatherUtils\obj\Debug\net8.0\WeatherUtils.pdb
 C:\Users\FIA\source\repos\WeatherUtils\WeatherUtils\obj\Debug\net8.0\ref\WeatherUtils.dll
+C:\Users\FIA\source\repos\WeatherUtils\WeatherUtils\obj\Debug\net8.0\WeatherUtils.sourcelink.json
